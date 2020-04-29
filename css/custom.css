@@ -1,0 +1,12 @@
+/* This stylesheet is meant for custom styles, on top of the Bone Template */
+.bg-layer {
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+}
+
+.logo-padding {
+    padding-top: 8px;
+}
+
+.par-padding {
+    padding-bottom: 300px;
+}
